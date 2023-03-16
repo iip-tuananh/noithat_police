@@ -79,7 +79,6 @@ $img = json_decode($product->images);
                         width="100%" alt="{{$item}}">
                      </div>
                   @endforeach
-                  
                </div>
                <!--/.Slides-->
                <div class="slider-nav">
