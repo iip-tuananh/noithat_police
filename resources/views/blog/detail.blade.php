@@ -1,6 +1,6 @@
 @extends('layouts.main.master')
 @section('title')
-{{languageName($blog_detail->title)}}
+{{-- {{languageName($blog_detail->title)}} --}}
 @endsection
 @section('description')
 {{languageName($blog_detail->description)}}
