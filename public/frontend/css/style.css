@@ -192,7 +192,7 @@ header#cate .header-menu ul li ul li a {
 }
 header#cate .header-menu, header .header-menu.newClass, header .menu-mobile.newClass {
   position: fixed;
-  background: #2b4c4b;
+  background: #444342;
   width: 100%;
   left: 0;
   top: 0;
@@ -241,7 +241,8 @@ header .header-menu.newClass .logo img.logo-scr {
 
 header .header-menu .logo img.logo-scr {
   /*display: none;*/
-  margin: 10px 0
+  max-width: 71px;
+  margin: 10px 0;
 }
 
 header .header-menu .row {
@@ -2259,7 +2260,7 @@ main #service .feel .slide-feel .swiper-pagination-bullet.swiper-pagination-bull
 }
 
 footer {
-  background: #2b4c4b;
+  background: #444342;
   padding-top: 50px;
 }
 
