@@ -116,7 +116,7 @@ Giới thiệu
                      </div>
                      <div id="GROUP245" class="ladi-element">
                         <div class="ladi-group">
-                           <img src="{{url('frontend/images/tamnhin.jgp')}}" alt="">
+                           <img src="{{url('frontend/images/tuan1.jpg')}}" alt="">
                   
                         </div>
                      </div>
@@ -216,7 +216,7 @@ Giới thiệu
                      </div>
                      <div id="GROUP245" class="ladi-element">
                         <div class="ladi-group">
-                           <img src="{{url('frontend/images/gia-tri-cot-loi.png')}}" alt="">
+                           <img src="{{asset('frontend/images/tuan3.jpg')}}" alt="">
                            {{-- <div id="GROUP246" class="ladi-element">
                               <div class="ladi-group">
                                  <div id="BOX247" class="ladi-element">
