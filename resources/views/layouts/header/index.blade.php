@@ -1,5 +1,5 @@
 {{-- <header style="background: linear-gradient(0deg,#828383 0%,rgb(197 197 197) 50%,#828383 100%);"> --}}
-<header style="background-color: #2b4c4b;" >
+<header style="background-color: #444342;" >
    <div class="header-menu">
       <div class="container">
          <div class="content">

@@ -1,9 +1,9 @@
 @extends('layouts.main.master')
 @section('title')
-Giới thiệu về Luxcons
+Giới thiệu
 @endsection
 @section('description')
-Giới thiệu về Luxcons
+Giới thiệu
 @endsection
 @section('css')
 @endsection
@@ -116,34 +116,8 @@ Giới thiệu về Luxcons
                      </div>
                      <div id="GROUP245" class="ladi-element">
                         <div class="ladi-group">
-                           <img src="{{url('frontend/images/tam-nhin.png')}}" alt="">
-                           {{-- <div id="GROUP246" class="ladi-element">
-                              <div class="ladi-group">
-                                 <div id="BOX247" class="ladi-element">
-                                    <div class="ladi-box"></div>
-                                 </div>
-                                 <div id="BOX248" class="ladi-element">
-                                    <div class="ladi-box"></div>
-                                 </div>
-                                 <div id="SHAPE249" class="ladi-element">
-                                    <div class="ladi-shape">
-                                       <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" preserveAspectRatio="none" viewBox="0 0 218 218" fill="rgba(217, 235, 255, 1.0)">
-                                          <path d="M109,0A109,109,0,1,0,218,109,109,109,0,0,0,109,0Zm0,178.66A69.66,69.66,0,1,1,178.66,109,69.66,69.66,0,0,1,109,178.66Z"></path>
-                                       </svg>
-                                    </div>
-                                 </div>
-                                 <div id="SHAPE250" class="ladi-element">
-                                    <div class="ladi-shape">
-                                       <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" preserveAspectRatio="none" viewBox="0 0 171.59 198.14" fill="rgba(217, 235, 255, 1.0)">
-                                          <path d="M0,0V198.14L171.59,99.07ZM26.63,46.13l91.7,52.94L26.63,152Z"></path>
-                                       </svg>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                           <div id="BOX251" class="ladi-element">
-                              <div class="ladi-box"></div>
-                           </div> --}}
+                           <img src="{{url('frontend/images/tamnhin.jgp')}}" alt="">
+                  
                         </div>
                      </div>
                   </div>
@@ -178,7 +152,7 @@ Giới thiệu về Luxcons
                      </div>
                      <div id="GROUP262" class="ladi-element">
                         <div class="ladi-group">
-                           <img src="{{url('frontend/images/su-menh.png')}}" alt="">
+                           <img src="{{url('frontend/images/sumenh.jpg')}}" alt="">
                            {{-- <div id="GROUP263" class="ladi-element">
                               <div class="ladi-group">
                                  <div id="BOX264" class="ladi-element">
