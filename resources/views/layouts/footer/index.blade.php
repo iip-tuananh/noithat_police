@@ -107,5 +107,5 @@
          </div>
       </div>
    </div>
-   <div class="reserved"> <span>© Luxcons Design 2022. Design by <a class="text-white" href="https://sbtsoftware.vn/">SBT Software</a></span> </div>
+   <div class="reserved"> <span>© Police Design 2022. Design by <a class="text-white" href="https://sbtsoftware.vn/">SBT Software</a></span> </div>
 </footer>
