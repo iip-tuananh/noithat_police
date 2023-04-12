@@ -15,7 +15,7 @@ Liên hệ với chúng tôi
 @section('content')
 <main>
 	<section id="banner-cate">
-	<div class="avarta"><img src="{{url('frontend/images/breadcrumb-lienhe.jpg')}}" class="img-fluid" width="100%" alt="">
+	<div class="avarta"><img src="{{asset('frontend/images/gioithieu.jpg')}}" class="img-fluid" width="100%" alt="">
 	</div>
 	</section>
 	<section id="breadcrumbs">

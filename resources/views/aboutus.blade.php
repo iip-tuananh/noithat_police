@@ -106,7 +106,7 @@ Giới thiệu
                               <p class="ladi-paragraph">
                                  <br>- Tạo ra những kiến trúc mang tính cá nhân hóa, giúp cuộc sống của khách hàng ngày một tiện nghi hơn, sinh thái hơn, an toàn hơn và tiết kiệm hơn.
                                  <br>- Năm 2025: Trở thành Công ty tư vấn thiết kế - xây dựng có tầm vóc tại Việt Nam với hệ sinh thái Thiết kế, Thi công trọn vẹn, đồng bộ và nhất quán về chất lượng sản phẩm, chất lượng dịch vụ
-                                 <br>- Năm 2026: Nâng tổng số lên 10 chi nhánh Luxcons trên các tỉnh thành..
+                                 <br>- Năm 2026: Nâng tổng số lên 10 chi nhánh trên các tỉnh thành..
                               </p>
                            </div>
                            <div id="HEADLINE88" class="ladi-element">
@@ -202,11 +202,11 @@ Giới thiệu
                         <div class="ladi-group">
                            <div id="PARAGRAPH87" class="ladi-element">
                               <p class="ladi-paragraph">
-                                 <br>- Sáng tạo: Luxcons coi sáng tạo là sức sống, là sinh mệnh, bởi vì chỉ có sáng tạo mới chiến thắng được công nghệ ngày một tiên tiến.
-                                 <br>- Đổi mới: Ở Luxcons chúng tôi không sợ thay đổi, đổi mới là chiến lược quan trọng để phát triển nhanh hơn, lớn hơn, bền vững hơn.
-                                 <br>- Con người: Luxcons luôn lấy con người là trọng tâm của mọi việc: Họ là khách hàng, là cộng sự, là đối tác...Luxcons ứng xử với con người bằng sự thiện chí, thân ái và nhân văn.
-                                 <br>- Công nghệ: Luxcons tin rằng chỉ có công nghệ kết hợp với con người mới tạo ra tác động đủ lớn đến nền Kiến trúc của đất nước.
-                                 <br>- Trách nhiệm: Trách nhiệm là nền tảng quan trọng với Luxcons, Trách nhiệm với khách hàng, trách nhiệm với nghề nghiệp, trách nhiệm với xã hội.
+                                 <br>- Sáng tạo: Police Design coi sáng tạo là sức sống, là sinh mệnh, bởi vì chỉ có sáng tạo mới chiến thắng được công nghệ ngày một tiên tiến.
+                                 <br>- Đổi mới: Ở Police Design chúng tôi không sợ thay đổi, đổi mới là chiến lược quan trọng để phát triển nhanh hơn, lớn hơn, bền vững hơn.
+                                 <br>- Con người: Police Design luôn lấy con người là trọng tâm của mọi việc: Họ là khách hàng, là cộng sự, là đối tác...Police Design ứng xử với con người bằng sự thiện chí, thân ái và nhân văn.
+                                 <br>- Công nghệ: Police Design tin rằng chỉ có công nghệ kết hợp với con người mới tạo ra tác động đủ lớn đến nền Kiến trúc của đất nước.
+                                 <br>- Trách nhiệm: Trách nhiệm là nền tảng quan trọng với Police Design, Trách nhiệm với khách hàng, trách nhiệm với nghề nghiệp, trách nhiệm với xã hội.
                               </p>
                            </div>
                            <div id="HEADLINE88" class="ladi-element">
