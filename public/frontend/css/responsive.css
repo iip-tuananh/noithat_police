@@ -106,7 +106,8 @@
 	}
 
 	header .menu-mobile .logo img {
-	    height: 30px;
+	    object-fit: cover;
+	    height: 76px;
 	}
 
 	header .menu-mobile .row {

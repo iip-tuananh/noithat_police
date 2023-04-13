@@ -3525,4 +3525,6 @@ footer .item .list-pol ul li:hover a {
 }
 .mobile-logo{
   display: flex;
+  justify-content: center;
+  align-items: center;
 }
