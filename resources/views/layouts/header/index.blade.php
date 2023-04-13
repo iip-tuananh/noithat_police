@@ -83,7 +83,7 @@
       <div class="container">
          <div class="row">
             <div class="col-3"></div>
-            <div class="col-6">
+            <div class="col-6 mobile-logo">
                <div class="logo"><a href="{{route('home')}}">
                   <img src="{{$setting->logo}}" class="img-fluid avarta-logo" alt="{{$setting->webname}}"></a>
                </div>

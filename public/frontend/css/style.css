@@ -3523,3 +3523,6 @@ footer .item .list-pol ul li:hover a {
     padding: 50px 20px;
   }
 }
+.mobile-logo{
+  display: flex;
+}
