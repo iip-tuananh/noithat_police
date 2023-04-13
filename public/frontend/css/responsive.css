@@ -116,7 +116,7 @@
 	nav#menu {
 	    z-index: 1001;
 	    display: none;
-		top: 67px;
+	    top: 0px;
 	}
 
 	.mm-menu.mm-menu_offcanvas.mm-menu_fx-menu-zoom.mm-menu_opened {
