@@ -82,13 +82,13 @@
    <div class="menu-mobile" style="display: none;">
       <div class="container">
          <div class="row">
-            <div class="col-sm-3 hidden-lg hidden-md"></div>
-            <div class="col-md-9 col-9 col-sm-6">
+            <div class="col-xs-3 hidden-lg hidden-md"></div>
+            <div class="col-md-9 col-xs-6 col-sm-6">
                <div class="logo"><a href="{{route('home')}}">
                   <img src="{{$setting->logo}}" class="img-fluid avarta-logo" alt="{{$setting->webname}}"></a>
                </div>
             </div>
-            <div class="col-md-3 col-3 col-sm-3">
+            <div class="col-md-3 col-xs-3 col-sm-3">
                <div class="header"><a href="#menu"><i class="fa fa-bars"></i></a></div>
             </div>
          </div>
