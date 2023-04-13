@@ -56,7 +56,7 @@
                <div class="wrapper">
                   <div class="forms-25-info">
                      <div class="info-title">
-                        <h4 class="text-uppercase">Giới thiệu</h4>
+                        <h4 class="text-uppercase" style="font-family: 'Times New Roman', Times, serif">Giới thiệu</h4>
                         <h3>{{$setting->company}}</h3>
                      </div>
                      {!!$aboutUs->description!!}
